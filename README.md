@@ -30,33 +30,6 @@ This project is designed for **portfolio visibility**, **internal mobility**, an
 
 ---
 
-## 🗂 Project Structure
-
----
-
-## 📸 Visuals (ready to upload into your repo)
-
-### **1️⃣ Issue Frequency Chart**
-*(Upload the generated PNG later — placeholder below)*
-
-<img src="https://via.placeholder.com/700x350.png?text=Issue+Frequency+Chart" />
-
----
-
-### **2️⃣ Project Workflow Diagram**
-*(Shows how data flows through the project)*
-
-<img src="https://via.placeholder.com/700x300.png?text=Project+Workflow:+CSV+→+Python+→+Outputs" />
-
----
-
-### **3️⃣ SQL + Python Hybrid Analysis**
-*(Nice-looking banner placeholder)*
-
-<img src="https://via.placeholder.com/700x200.png?text=Python+%2B+SQL+Analytics" />
-
----
-
 ## 🚀 How to Run
 
 ### **Install dependencies**
