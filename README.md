@@ -103,28 +103,3 @@ Included for a structured alternative to Python processing.
 | Portfolio | GitHub |
 
 ---
-
-## 📘 SQL Queries Included
-
-```sql
-SELECT issue_type, COUNT(*) AS issue_count
-FROM contacts
-GROUP BY issue_type;
-
-SELECT issue_type, AVG(escalated) AS escalation_rate
-FROM contacts
-GROUP BY issue_type;
-
-SELECT region, AVG(resolution_time_min) AS avg_resolution_time_min
-FROM contacts
-GROUP BY region;
-**
-
-👤 Author
-
-Ajit Karthikeya Balla
-Selling Partner Support | Amazon
-Operations & Analysis | Python | SQL | DevOps**
-
-⭐ If this project helped or you want to connect, feel free to star the repo!
-outputs/issue_counts.png
